@@ -99,7 +99,3 @@ TCM (Twitch Clip Monitor) is a Python-based utility designed to monitor a specif
         *   It adds the clip's ID to the `sent_clip_ids` set to prevent future notifications for this clip.
     *   Logs actions (fetching clips, finding new clips, sending notifications, errors) to the console.
     *   Repeats the loop.
-
-## License
-
-This project is likely intended for personal use. If distributing, consider adding a license file (e.g., MIT License).
